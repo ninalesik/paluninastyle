@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/paluninastyle/static/css/main.5576645f.css",
-    "main.js": "/paluninastyle/static/js/main.d76b8892.js",
+    "main.css": "/paluninastyle/static/css/main.b517c5d6.css",
+    "main.js": "/paluninastyle/static/js/main.1f6e419f.js",
     "static/media/photo_33.jpg": "/paluninastyle/static/media/photo_33.a195c5ab5dcf5e27732e.jpg",
     "static/media/photo_36.jpg": "/paluninastyle/static/media/photo_36.aefa8e2807359d176ea3.jpg",
     "static/media/photo_35.jpg": "/paluninastyle/static/media/photo_35.7767239b6f171e2b1dbc.jpg",
@@ -48,7 +48,6 @@
     "static/media/rebel_6.jpg": "/paluninastyle/static/media/rebel_6.f1404b05a4b9b579f50e.jpg",
     "static/media/aza_lea_5.jpg": "/paluninastyle/static/media/aza_lea_5.cdb5d6019bf02d58c1a6.jpg",
     "static/media/photo_2.jpg": "/paluninastyle/static/media/photo_2.2a36bece9b41012c9066.jpg",
-    "static/media/Anastasiia_photo.png": "/paluninastyle/static/media/Anastasiia_photo.bace4f85de93a2fa8505.png",
     "static/media/lofficiel_winter_garden_8.jpg": "/paluninastyle/static/media/lofficiel_winter_garden_8.92f0a2aba3ad758ea45b.jpg",
     "static/media/Viktoria_ 3.jpg": "/paluninastyle/static/media/Viktoria_ 3.52b632a6b7efac4166a1.jpg",
     "static/media/aza_lea_2.jpg": "/paluninastyle/static/media/aza_lea_2.5e565f28ad4d5174e18f.jpg",
@@ -62,6 +61,7 @@
     "static/media/photo_12.jpg": "/paluninastyle/static/media/photo_12.683987ab3cb047f3acbe.jpg",
     "static/media/photo_25.jpg": "/paluninastyle/static/media/photo_25.33da0fe4cd1c997f1f45.jpg",
     "static/media/photo_11.jpg": "/paluninastyle/static/media/photo_11.bf357bebe4e172a6ab4b.jpg",
+    "static/media/Anastasiia_photo.jpg": "/paluninastyle/static/media/Anastasiia_photo.67bf9cee15315b3cb7b0.jpg",
     "static/media/rebel_5.jpg": "/paluninastyle/static/media/rebel_5.e0b0a6064472f6f46968.jpg",
     "static/media/sandra_1.jpg": "/paluninastyle/static/media/sandra_1.e58775a893ba73a907e3.jpg",
     "static/media/photo_20.jpg": "/paluninastyle/static/media/photo_20.3b823c88efbe1ebda8fd.jpg",
@@ -111,11 +111,11 @@
     "index.html": "/paluninastyle/index.html",
     "static/media/linkedIn.svg": "/paluninastyle/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "static/media/scrollUp_button.svg": "/paluninastyle/static/media/scrollUp_button.10122bf4a47154ef67567a3207e382ea.svg",
-    "main.5576645f.css.map": "/paluninastyle/static/css/main.5576645f.css.map",
-    "main.d76b8892.js.map": "/paluninastyle/static/js/main.d76b8892.js.map"
+    "main.b517c5d6.css.map": "/paluninastyle/static/css/main.b517c5d6.css.map",
+    "main.1f6e419f.js.map": "/paluninastyle/static/js/main.1f6e419f.js.map"
   },
   "entrypoints": [
-    "static/css/main.5576645f.css",
-    "static/js/main.d76b8892.js"
+    "static/css/main.b517c5d6.css",
+    "static/js/main.1f6e419f.js"
   ]
 }
