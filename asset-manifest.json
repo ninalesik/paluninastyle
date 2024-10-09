@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/paluninastyle/static/css/main.5196643c.css",
-    "main.js": "/paluninastyle/static/js/main.035e408c.js",
+    "main.js": "/paluninastyle/static/js/main.ee083912.js",
     "static/media/photo_33.jpg": "/paluninastyle/static/media/photo_33.a195c5ab5dcf5e27732e.jpg",
     "static/media/photo_36.jpg": "/paluninastyle/static/media/photo_36.aefa8e2807359d176ea3.jpg",
     "static/media/photo_35.jpg": "/paluninastyle/static/media/photo_35.7767239b6f171e2b1dbc.jpg",
@@ -112,10 +112,10 @@
     "static/media/linkedIn.svg": "/paluninastyle/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "static/media/scrollUp_button.svg": "/paluninastyle/static/media/scrollUp_button.10122bf4a47154ef67567a3207e382ea.svg",
     "main.5196643c.css.map": "/paluninastyle/static/css/main.5196643c.css.map",
-    "main.035e408c.js.map": "/paluninastyle/static/js/main.035e408c.js.map"
+    "main.ee083912.js.map": "/paluninastyle/static/js/main.ee083912.js.map"
   },
   "entrypoints": [
     "static/css/main.5196643c.css",
-    "static/js/main.035e408c.js"
+    "static/js/main.ee083912.js"
   ]
 }
