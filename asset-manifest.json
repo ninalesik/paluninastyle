@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/paluninastyle/static/css/main.72b09d91.css",
-    "main.js": "/paluninastyle/static/js/main.152ff806.js",
+    "main.css": "/paluninastyle/static/css/main.c956f216.css",
+    "main.js": "/paluninastyle/static/js/main.1e838466.js",
     "static/media/photo_33.jpg": "/paluninastyle/static/media/photo_33.a195c5ab5dcf5e27732e.jpg",
     "static/media/photo_36.jpg": "/paluninastyle/static/media/photo_36.aefa8e2807359d176ea3.jpg",
     "static/media/photo_35.jpg": "/paluninastyle/static/media/photo_35.7767239b6f171e2b1dbc.jpg",
@@ -111,11 +111,11 @@
     "index.html": "/paluninastyle/index.html",
     "static/media/linkedIn.svg": "/paluninastyle/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "static/media/scrollUp_button.svg": "/paluninastyle/static/media/scrollUp_button.10122bf4a47154ef67567a3207e382ea.svg",
-    "main.72b09d91.css.map": "/paluninastyle/static/css/main.72b09d91.css.map",
-    "main.152ff806.js.map": "/paluninastyle/static/js/main.152ff806.js.map"
+    "main.c956f216.css.map": "/paluninastyle/static/css/main.c956f216.css.map",
+    "main.1e838466.js.map": "/paluninastyle/static/js/main.1e838466.js.map"
   },
   "entrypoints": [
-    "static/css/main.72b09d91.css",
-    "static/js/main.152ff806.js"
+    "static/css/main.c956f216.css",
+    "static/js/main.1e838466.js"
   ]
 }
