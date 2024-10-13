@@ -1,6 +1,6 @@
 Stylist`s Website 
 
-This is the portfolio website for Anastasiia Palunina, showcasing the works and services provided. The project is built with React and SCSS and uses React Router for navigation. The website is fully responsive and includes a mobile menu for smaller screen sizes.
+This is a stylist's portfolio website, showcasing the works and services provided. The project is built with React and SCSS and uses React Router for navigation. The website is fully responsive and includes a mobile menu for smaller screen sizes.
 
 Features
 Responsive design that adapts to different screen sizes.
